@@ -30,6 +30,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework27.11", "Homework27
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniBattleGame", "MiniBattleGame\MiniBattleGame.csproj", "{AF325D03-5E54-40EF-A061-7DE472D876EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework30.11", "Homework30.11\Homework30.11.csproj", "{F25D53CB-F307-4C50-970B-4E0736E50595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyCodeGenerator", "SpyCodeGenerator\SpyCodeGenerator.csproj", "{F05B24B8-A6A2-4E01-9E35-30C9A97FA8C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +84,14 @@ Global
 		{AF325D03-5E54-40EF-A061-7DE472D876EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF325D03-5E54-40EF-A061-7DE472D876EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF325D03-5E54-40EF-A061-7DE472D876EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25D53CB-F307-4C50-970B-4E0736E50595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25D53CB-F307-4C50-970B-4E0736E50595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25D53CB-F307-4C50-970B-4E0736E50595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25D53CB-F307-4C50-970B-4E0736E50595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05B24B8-A6A2-4E01-9E35-30C9A97FA8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05B24B8-A6A2-4E01-9E35-30C9A97FA8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05B24B8-A6A2-4E01-9E35-30C9A97FA8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05B24B8-A6A2-4E01-9E35-30C9A97FA8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
