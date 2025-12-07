@@ -5,6 +5,7 @@
         public static void Run()
         {
             string sentence = "I’m doing my best to learn C#";
+
             Dictionary<string, int> result = CountLetterOccurrences(sentence);
 
             foreach (var pair in result)
